@@ -1,0 +1,14 @@
+#If it is not in the arglist it WILL NOT WORK
+#Follow the format shown in example and example2
+#To use colors just add & then the color code
+arglist:
+- example
+- example2
+example:
+- 'Info1'
+- 'Info2'
+- 'Info3'
+example2:
+- 'Hello'
+- 'I am'
+- 'Princeofmar5'
